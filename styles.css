@@ -1,0 +1,30 @@
+* {
+    display: border-box;
+    border: 1px solid black;
+    background-color: f
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #header-img {
+    width: 150px;
+  }
+  
+  #nav-bar {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-items {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 75%;
+    
+  }
